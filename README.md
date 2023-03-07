@@ -1,10 +1,11 @@
-# Astronomy-FITS-APIs
-A series of tools and demos of downloading science images from observatories
+# Astronomy-FITS-Examples
 
-You may check the demos to run your downloads.
+This repo demonstrates the apis provided by astroquery/pyvo.
+You may check the demos to run your downloads of interest fits file.
 
 # Requirements
 
+All demos are tested under Python==3.9.16
 Spitzer module provides in Astroquery >= v0.4.6
 Other requirements refers to requirements.txt.
 
